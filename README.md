@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jharishav99" target="blank"><img src="https://img.shields.io/twitter/follow/jharishav99?logo=twitter&style=for-the-badge" alt="jharishav99" /></a> </p>
 
-- 🌱 I’m currently learning **React Three fiber , Three.js**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **jharishav99@gmail.com**
 
