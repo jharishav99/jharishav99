@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=jharishav99&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 <br>🔭 I’m currently enrolled in Kalinga Institute of Industrial Technology.<br>👯 I’m looking to work remotely<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Machine Learning ,C++ , DSA<br>📫 How to reach me: jharishav99@gmail.com
 
@@ -15,7 +17,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jharishav99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=jharishav99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
