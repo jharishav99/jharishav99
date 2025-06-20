@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hi, I am Rishav Jha
-<br>🔭 I’m currently enrolled in Kalinga Institute of Industrial Technology.<br>👯 I’m looking to work remotely<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Machine Learning ,C++ , DSA<br>📫 How to reach me: jharishav99@gmail.com
+<br>🔭 I’m currently enrolled in Kalinga Institute of Industrial Technology.<br>👯 I’m looking to work remotely<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Deep Learning,Machine Learning ,C++ , DSA<br>📫 How to reach me: jharishav99@gmail.com
 
 
 ## 🌐 Socials:
