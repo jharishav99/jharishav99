@@ -1,54 +1,72 @@
-# 🌟 Rishav Jha
+# 🌌 Rishav Jha
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer Engineer;AI+Researcher;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineer;AI+Researcher;AI%2FML+%26+MERN+Enthusiast" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m **Rishav**, a passionate **Full-Stack Developer** and **AI enthusiast**. I thrive on building clean, impactful solutions and learning new technologies that push boundaries.
+I’m a **Computer Engineer** and **AI Researcher** with a strong interest in **AI/ML** and the **MERN stack**. I enjoy working at the intersection of research and real-world applications, especially in deep learning and sentiment analysis.
 
-🔗 Visit my portfolio: **[rishavjha.com.np](https://rishavjha.com.np/)**  
-🌍 Based in **Kathmandu, Nepal**  
-🎯 Always learning • Always building
+🌍 Based in **Nepal**
+🎓 Computer Engineering background
+☕ Curious mind, research-driven approach
 
 ---
 
-## 🚀 What I’m Working On
-- 🛠️ Building scalable web apps with **MERN stack**
-- 🤖 Exploring **AI & Machine Learning**
-- ⚙️ Polishing **system design & architecture**
-- 💡 Documenting learnings and projects
+## 🚀 What I’m Currently Working On
+
+* 🧠 Writing a **journal manuscript in Deep Learning**
+* 🤖 Advancing research in **deep learning architectures**
+* 💻 Strengthening practical skills in **AI/ML and MERN stack**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`JavaScript` `Python` `C++`
 
-### 🌐 Frontend
-`HTML` `CSS` `Tailwind CSS` `React`
+`C` `C++` `JavaScript` `Python` `Java`
 
-### ⚙️ Backend
-`Node.js` `Express` `MongoDB`
+### 🌐 Web Development
 
-### 🤖 AI / Data
-`Python` `NumPy` `Pandas` `Scikit-learn`
+`HTML` `CSS` `Tailwind` `React` `Node.js` `Express` `MongoDB`
 
-### 🧰 Tools
-`Git` `GitHub` `VS Code` `Postman`
+### 🤖 AI / ML
+
+`Python` `NumPy` `Pandas` `Scikit-learn` `Basic ML Models`
+
+### ⚙️ Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Postman` `Linux`
 
 ---
 
-## 💼 Experience
+## 🔬 Research Experience
 
-### 📌 Web & Technical Trainer — *Hiranya Nepal*
-- Built and deployed the **NGO website**
-- Listed the NGO on **Google Maps**
-- Trained team members and students in **web & computer skills**
+**Undergraduate Researcher (Deep Learning)**
+**Kalinga Institute of Industrial Technology (KIIT)** — Bhubaneswar, India
+*Jan 2024 – May 2025*
+
+* Conducted **1.5 years of supervised research** in **Deep Learning**
+* **First author of 2 IEEE conference papers**
+
+---
+
+## 📚 Publications
+
+### 📝 Published Papers
+
+1. **Deep Learnings for Financial Sentiment Analysis**
+   IEEE Conference Paper — [Read paper](https://ieeexplore.ieee.org/document/10962717)
+2. **Deep Learning Architectures for Multimodal Sentiment Analysis**
+   IEEE Conference Paper — [Read paper](https://ieeexplore.ieee.org/document/11052112)
+
+🔎 **Research Profiles**
+
+* Semantic Scholar: [https://www.semanticscholar.org/author/Rishav-Jha/2355613965](https://www.semanticscholar.org/author/Rishav-Jha/2355613965)
 
 ---
 
@@ -65,15 +83,22 @@ I’m **Rishav**, a passionate **Full-Stack Developer** and **AI enthusiast**. I
 
 ---
 
-## 📫 Let’s Connect
+## 🌱 Philosophy
 
-✨ **Website:** https://rishavjha.com.np  
-🔗 **LinkedIn:** *(add link)*  
-📧 **Email:** *(add email)*  
+> *“Consistency beats intensity. Every single time.”*
+
+I believe in building **slow, solid, and sustainable growth** — in code and in life.
+
+---
+
+## 🤝 Let’s Connect
+
+* 🌐 Website: [https://rishavjha.com.np/](https://rishavjha.com.np/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/jharishav99/](https://www.linkedin.com/in/jharishav99/)
+* 💡 LeetCode: [https://leetcode.com/u/jharishav99/](https://leetcode.com/u/jharishav99/)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer" />
 </p>
-
