@@ -9,12 +9,10 @@
 ## 👋 About Me
 
 I’m a **Computer Engineer** and **AI Researcher** with a strong interest in **AI/ML** and the **MERN stack**. 
+With Minor degree in financial economics using Data Analytics
 I enjoy working at the intersection of research and real-world applications, especially in deep learning and sentiment analysis.
 
 🌍 Based in **Nepal**
-
-🎓 Computer Engineering background
-
 ☕ Curious mind, research-driven approach
 
 
@@ -52,7 +50,7 @@ I enjoy working at the intersection of research and real-world applications, esp
 
 **Undergraduate Researcher (Deep Learning)**
 
-**Kalinga Institute of Industrial Technology (KIIT)** — Bhubaneswar, India
+**Kalinga Institute of Industrial Technology (KIIT)**        — Bhubaneswar, India
 *Jan 2024 – May 2025*
 
 * Conducted **1.5 years of supervised research** in **Deep Learning**
