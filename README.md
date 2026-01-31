@@ -50,8 +50,9 @@ I enjoy working at the intersection of research and real-world applications, esp
 
 **Undergraduate Researcher (Deep Learning)**
 
-**Kalinga Institute of Industrial Technology (KIIT)**        — Bhubaneswar, India
-*Jan 2024 – May 2025*
+**Kalinga Institute of Industrial Technology (KIIT)**       
+— Bhubaneswar, India
+*(Jan 2024 – May 2025)*
 
 * Conducted **1.5 years of supervised research** in **Deep Learning**
 
