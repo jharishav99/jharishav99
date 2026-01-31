@@ -1,7 +1,7 @@
 # 🌟 Rishav Jha
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Tech+Creator+%26+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer Engineer;AI+Researcher;" />
 </p>
 
 ---
