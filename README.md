@@ -12,8 +12,6 @@ I’m a **Computer Engineer** and **AI Researcher** with a strong interest in **
 With Minor degree in financial economics using Data Analytics
 I enjoy working at the intersection of research and real-world applications, especially in deep learning and sentiment analysis.
 
-🌍 Based in **Nepal**
-☕ Curious mind, research-driven approach
 
 
 ---
