@@ -1,107 +1,299 @@
-# 🌌 Rishav Jha
+# Rishav Jha
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineer;AI+Researcher;AI%2FML+%26+MERN+Enthusiast" />
-</p>
+**.NET Full Stack Developer · AI Researcher · Stand-up Comedian**  
+From the foot of the Himalayas to the cloud. 🏔️☁️
 
----
+📍 Bangalore, India  
+🇳🇵 Originally from Nepal  
+💼 Project Engineer @ Wipro  
+🧠 AI Researcher  
+🎤 Stand-up Comedian  
 
-## 👋 About Me
-
-I’m a **Computer Engineer** and **AI Researcher** with a strong interest in **AI/ML** and the **MERN stack**. 
-With Minor degree in financial economics using Data Analytics
-I enjoy working at the intersection of research and real-world applications, especially in deep learning and sentiment analysis.
-
-
+[Portfolio](#) • [Resume](#) • [LinkedIn](#) • [GitHub](#)
 
 ---
 
-## 🚀 What I’m Currently Working On
+## About Me
 
-* 🧠 Writing a **journal manuscript in Deep Learning**
-* 🤖 Advancing research in **deep learning architectures**
-* 💻 Strengthening practical skills in **AI/ML and MERN stack**
+I’m **Rishav Jha**, a **.NET Full Stack Developer** currently working at **Wipro** in Bangalore, building production-grade enterprise applications using **.NET**, **Angular**, and modern full stack technologies.
 
----
+Originally from **Nepal**, I bring a unique mix of:
 
-## 🛠️ Tech Stack
+- **Production-ready full stack development**
+- **IEEE-published AI/ML research**
+- **Strong communication from 3+ years of stand-up comedy**
 
-### 💻 Languages
+I believe the climb matters more than the summit — whether it’s building software, publishing research, or making people laugh.
 
-`C` `C++` `JavaScript` `Python` `Java`
-
-### 🌐 Web Development
-
-`HTML` `CSS` `Tailwind` `React` `Node.js` `Express` `MongoDB`
-
-### 🤖 AI / ML
-
-`Python` `NumPy` `Pandas` `Scikit-learn` `Basic ML Models`
-
-### ⚙️ Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Postman` `Linux`
+> Fast learner. Strong communicator. Builder of things that actually work.
 
 ---
 
-## 🔬 Research Experience
+## Quick Highlights
 
-**Undergraduate Researcher (Deep Learning)**
-
-**Kalinga Institute of Industrial Technology (KIIT)**       
-— Bhubaneswar, India
-*(Jan 2024 – May 2025)*
-
-* Conducted **1.5 years of supervised research** in **Deep Learning**
-
-* **First author of 2 IEEE conference papers**
-
----
-
-## 📚 Publications
-
-### 📝 Published Papers
-
-1. **Deep Learnings for Financial Sentiment Analysis**
-   IEEE Conference Paper — [Read paper](https://ieeexplore.ieee.org/document/10962717)
-2. **Deep Learning Architectures for Multimodal Sentiment Analysis**
-   IEEE Conference Paper — [Read paper](https://ieeexplore.ieee.org/document/11052112)
-
-🔎 **Research Profiles**
-
-* Semantic Scholar: [https://www.semanticscholar.org/author/Rishav-Jha/2355613965](https://www.semanticscholar.org/author/Rishav-Jha/2355613965)
+- 💼 **Project Engineer @ Wipro**
+- 💻 **.NET Full Stack Angular Developer**
+- 🧠 **1.5+ Years in AI & Deep Learning Research**
+- 📚 **6+ Publications**
+- 🎤 **3+ Years of Stand-up Comedy**
+- 🏆 **Top 20 Research Paper @ IIT Bhubaneswar**
+- 🎭 **Top 24 Finalist – Comedy Champion Season 2 (Nepal)**
+- 🎓 **Study in India Scholarship Awardee**
+- 📍 Based in Bangalore, India
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160" />
-</p>
+### Backend / .NET
+- ASP.NET Core
+- .NET 8
+- C#
+- Entity Framework Core
+- REST APIs
+- JWT Authentication
+- SQL Server
+- PostgreSQL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="140" />
-</p>
+### Frontend
+- Angular
+- TypeScript
+- RxJS
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- React
+
+### Programming Languages
+- C#
+- Python
+- C++
+- JavaScript
+- TypeScript
+- SQL
+
+### AI / ML / Deep Learning
+- TensorFlow
+- PyTorch
+- CNN
+- RNN
+- Transformers
+- BERT
+- Transfer Learning
+- NLP
+- Multimodal Sentiment Analysis
+
+### Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- NLTK
+- Hugging Face
+- Word2Vec
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Visual Studio
+- Postman
+- Figma
+- IntelliJ IDEA
 
 ---
 
-## 🌱 Philosophy
+## Experience
 
-> *“Consistency beats intensity. Every single time.”*
+### Wipro Limited
+**Project Engineer — .NET Full Stack Angular**  
+📍 Bengaluru, India  
+🗓️ March 2026 – Present
 
-I believe in building **slow, solid, and sustainable growth** — in code and in life.
+- Completed enterprise pre-skilling in **.NET Full Stack Development**
+- Built applications using **Angular, ASP.NET Core, C#, and SQL Server**
+- Worked on **frontend-backend integration**
+- Developed and consumed **REST APIs**
+- Contributed in **Agile enterprise development environments**
+
+**Tech:** `.NET 8` `Angular` `C#` `SQL Server` `JWT` `REST APIs`
 
 ---
 
-## 🤝 Let’s Connect
+### KIIT University
+**AI & ML Researcher**  
+📍 Bhubaneswar, India  
+🗓️ Jan 2024 – May 2025
 
-* 🌐 Website: [https://rishavjha.com.np/](https://rishavjha.com.np/)
-* 💼 LinkedIn: [https://www.linkedin.com/in/jharishav99/](https://www.linkedin.com/in/jharishav99/)
-* 💡 LeetCode: [https://leetcode.com/u/jharishav99/](https://leetcode.com/u/jharishav99/)
+- Conducted **1.5 years of undergraduate research**
+- Worked on:
+  - Multimodal Sentiment Analysis
+  - Financial NLP
+  - Deep Learning Architectures
+  - Transformers & BERT
+- Published and presented research in IEEE conferences
+- Presented at **IIT Bhubaneswar**
+
+**Focus:** `Deep Learning` `Transformers` `BERT` `Financial NLP` `Multimodal AI`
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer" />
-</p>
+## Featured Projects
+
+### ShopForHome — E-Commerce Platform
+Full-stack e-commerce platform with authentication, cart, coupons, product management, and analytics dashboard.
+
+**Tech:** `.NET 8` `Angular` `JWT` `EF Core` `PostgreSQL` `REST API`
+
+- Full-stack architecture
+- JWT-based authentication
+- Product & order management
+- Admin analytics dashboard
+
+🔗 Live Demo • 🔗 GitHub
+
+---
+
+### Transport Management System
+Fleet and logistics management platform for transport operations.
+
+**Tech:** `ASP.NET Core` `C#` `SQL Server`
+
+- Fleet tracking
+- Logistics workflow
+- Scalable backend APIs
+- Team collaboration project
+
+🔗 GitHub
+
+---
+
+### Olympic Medal Prediction
+Machine learning model predicting Olympic medal counts using historical and socioeconomic features.
+
+**Tech:** `Python` `Scikit-learn` `Pandas` `XGBoost`
+
+- Predictive modeling
+- Feature engineering
+- Ensemble learning
+
+🔗 GitHub
+
+---
+
+### Amazon Recommendation System
+Recommendation engine using collaborative filtering and NLP-powered review analysis.
+
+**Tech:** `Python` `NLTK` `Pandas` `Surprise`
+
+- Hybrid recommendation engine
+- Content-based filtering
+- Review sentiment insights
+
+🔗 GitHub
+
+---
+
+## Research & Publications
+
+### IEEE Publications
+- **Deep Learnings for Financial Sentiment Analysis**
+- **Deep Learning Architectures for Multimodal Sentiment Analysis**
+- **Leveraging Deep Learning for Sentiment Analysis in Nepali Language Literature**
+
+### Book / Conclave Papers
+- *Cultural Practices and Environmental Adaptations in Nepal's Hill Communities*
+- *Navigating Growth, Urbanization, and Debt: A Multidimensional Analysis of Nepal's Economic Transformation (2010–2022)*
+- *Everyday Life in Nepal's Hill Communities: An Exploration of Cultural Practices and Environmental Adaptations*
+
+---
+
+## Conferences
+
+- IEEE Research Presentations at KIIT
+- Paper Presentation at IIT Bhubaneswar
+- ESIC 2025 IEEE Conference Delegate
+- AI/ML Research Keynote Sessions
+- Sustainable Energy Economics Conference
+
+**Stats**
+- 3+ Conferences
+- 6+ Research Papers
+- Top 20 / 180 Papers Selected
+- IEEE Published & Indexed
+
+---
+
+## Certifications
+
+- AI Tools Workshop — be10X
+- AWS Academy Introduction to Cloud — AWS
+- Career Essentials in Data Analysis — Microsoft & LinkedIn
+- Full Stack Development in Java
+- Python & Machine Learning
+- Data Science Bootcamp
+- MongoDB Developer's Toolkit
+- SQL — Complete Introduction to SQL
+- Business Analyst Certification
+
+---
+
+## Awards & Recognition
+
+### 🏆 Top 20 Research Paper — IIT Bhubaneswar
+Selected among the **Top 20 papers out of 180 submissions** at the International Conference on Sustainable Energy Economics in the Asia-Pacific Region.
+
+### 🎤 Top 24 Finalist — Comedy Champion Season 2
+Advanced to **Top 24 nationally** in Nepal’s biggest stand-up comedy competition out of **7,000+ participants**.
+
+### 🎓 Study in India Scholarship
+Awarded full scholarship by the Government of India for B.Tech CSE at KIIT University.
+
+---
+
+## Beyond Tech
+
+When I’m not building software or publishing research, I’m probably doing one of these:
+
+- 🎤 Stand-up Comedy
+- 🏔️ Trekking
+- ♟️ Chess
+- 🚴 Cycling
+- 🎸 Guitar
+
+Comedy taught me timing. Research taught me rigor. Development taught me execution.
+
+---
+
+## Coding Profiles
+
+- LeetCode: `jharishav99`
+- HackerRank: `jharishav99`
+- CodeChef: `jharishav99`
+- Codolio: `jharishav99`
+
+---
+
+## Connect With Me
+
+I’m open to opportunities, collaborations, and interesting conversations.
+
+- 💼 LinkedIn
+- 💻 GitHub
+- 📧 Email
+- 💬 WhatsApp
+- 📸 Instagram
+- 👥 Facebook
+- 📚 Google Scholar
+- 🔬 Semantic Scholar
+
+---
+
+## Philosophy
+
+> Like Buddha under the Bodhi tree,  
+> we seek clarity and enlightenment  
+> through mindful creation.
+
+**Built with ❤️ · From the Himalayas to the Cloud · नमस्ते 🏔️**
