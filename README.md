@@ -1,299 +1,61 @@
-# Rishav Jha
+<div align="center">
 
-**.NET Full Stack Developer · AI Researcher · Stand-up Comedian**  
-From the foot of the Himalayas to the cloud. 🏔️☁️
+# ✨ Rishav Jha  
+### `.NET Full Stack Developer` • `AI Researcher` • `Stand-up Comedian`
 
-📍 Bangalore, India  
-🇳🇵 Originally from Nepal  
-💼 Project Engineer @ Wipro  
-🧠 AI Researcher  
-🎤 Stand-up Comedian  
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=From+the+Himalayas+to+the+Cloud+%F0%9F%8F%94%EF%B8%8F%E2%98%81%EF%B8%8F;Building+Production-Grade+.NET+Apps+%F0%9F%92%BB;Publishing+IEEE+Research+%F0%9F%93%9A;Making+People+Laugh+on+Stage+%F0%9F%8E%A4" alt="Typing SVG" />
 
-[Portfolio](#) • [Resume](#) • [LinkedIn](#) • [GitHub](#)
+<img src="https://komarev.com/ghpvc/?username=jharishav99&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
----
+[🌐 Portfolio](#) • [📄 Resume](#) • [💼 LinkedIn](#) • [💻 GitHub](#)
 
-## About Me
-
-I’m **Rishav Jha**, a **.NET Full Stack Developer** currently working at **Wipro** in Bangalore, building production-grade enterprise applications using **.NET**, **Angular**, and modern full stack technologies.
-
-Originally from **Nepal**, I bring a unique mix of:
-
-- **Production-ready full stack development**
-- **IEEE-published AI/ML research**
-- **Strong communication from 3+ years of stand-up comedy**
-
-I believe the climb matters more than the summit — whether it’s building software, publishing research, or making people laugh.
-
-> Fast learner. Strong communicator. Builder of things that actually work.
+</div>
 
 ---
 
-## Quick Highlights
+## 🧑‍💻 About Me  
 
-- 💼 **Project Engineer @ Wipro**
-- 💻 **.NET Full Stack Angular Developer**
-- 🧠 **1.5+ Years in AI & Deep Learning Research**
+Hi, I’m **Rishav Jha** — a **.NET Full Stack Developer at Wipro** based in **Bangalore, India** 🇮🇳, originally from **Nepal** 🇳🇵.  
+
+I build scalable full stack applications with **.NET + Angular**, publish **AI/ML research**, and occasionally step on stage to make people laugh.  
+
+> *Mountains taught me one thing — the summit is never the destination, the climb is.* 🏔️
+
+- 💼 Project Engineer @ **Wipro**
+- 🧠 **1.5+ years** in AI & Deep Learning Research
 - 📚 **6+ Publications**
-- 🎤 **3+ Years of Stand-up Comedy**
-- 🏆 **Top 20 Research Paper @ IIT Bhubaneswar**
-- 🎭 **Top 24 Finalist – Comedy Champion Season 2 (Nepal)**
-- 🎓 **Study in India Scholarship Awardee**
-- 📍 Based in Bangalore, India
+- 🎤 **3+ years** of Stand-up Comedy
+- 🏆 Top 20 Paper @ IIT Bhubaneswar
+- 🎭 Top 24 Finalist – Comedy Champion Nepal
 
 ---
 
-## Tech Stack
+## ⚡ Tech Arsenal  
 
-### Backend / .NET
-- ASP.NET Core
-- .NET 8
-- C#
-- Entity Framework Core
-- REST APIs
-- JWT Authentication
-- SQL Server
-- PostgreSQL
+<div align="center">
 
-### Frontend
-- Angular
-- TypeScript
-- RxJS
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-- React
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Programming Languages
-- C#
-- Python
-- C++
-- JavaScript
-- TypeScript
-- SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-NLP-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI / ML / Deep Learning
-- TensorFlow
-- PyTorch
-- CNN
-- RNN
-- Transformers
-- BERT
-- Transfer Learning
-- NLP
-- Multimodal Sentiment Analysis
-
-### Data Science
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- NLTK
-- Hugging Face
-- Word2Vec
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Visual Studio
-- Postman
-- Figma
-- IntelliJ IDEA
+</div>
 
 ---
 
-## Experience
+## 🚀 What I Do  
 
-### Wipro Limited
-**Project Engineer — .NET Full Stack Angular**  
-📍 Bengaluru, India  
-🗓️ March 2026 – Present
-
-- Completed enterprise pre-skilling in **.NET Full Stack Development**
-- Built applications using **Angular, ASP.NET Core, C#, and SQL Server**
-- Worked on **frontend-backend integration**
-- Developed and consumed **REST APIs**
-- Contributed in **Agile enterprise development environments**
-
-**Tech:** `.NET 8` `Angular` `C#` `SQL Server` `JWT` `REST APIs`
-
----
-
-### KIIT University
-**AI & ML Researcher**  
-📍 Bhubaneswar, India  
-🗓️ Jan 2024 – May 2025
-
-- Conducted **1.5 years of undergraduate research**
-- Worked on:
-  - Multimodal Sentiment Analysis
-  - Financial NLP
-  - Deep Learning Architectures
-  - Transformers & BERT
-- Published and presented research in IEEE conferences
-- Presented at **IIT Bhubaneswar**
-
-**Focus:** `Deep Learning` `Transformers` `BERT` `Financial NLP` `Multimodal AI`
-
----
-
-## Featured Projects
-
-### ShopForHome — E-Commerce Platform
-Full-stack e-commerce platform with authentication, cart, coupons, product management, and analytics dashboard.
-
-**Tech:** `.NET 8` `Angular` `JWT` `EF Core` `PostgreSQL` `REST API`
-
-- Full-stack architecture
-- JWT-based authentication
-- Product & order management
-- Admin analytics dashboard
-
-🔗 Live Demo • 🔗 GitHub
-
----
-
-### Transport Management System
-Fleet and logistics management platform for transport operations.
-
-**Tech:** `ASP.NET Core` `C#` `SQL Server`
-
-- Fleet tracking
-- Logistics workflow
-- Scalable backend APIs
-- Team collaboration project
-
-🔗 GitHub
-
----
-
-### Olympic Medal Prediction
-Machine learning model predicting Olympic medal counts using historical and socioeconomic features.
-
-**Tech:** `Python` `Scikit-learn` `Pandas` `XGBoost`
-
-- Predictive modeling
-- Feature engineering
-- Ensemble learning
-
-🔗 GitHub
-
----
-
-### Amazon Recommendation System
-Recommendation engine using collaborative filtering and NLP-powered review analysis.
-
-**Tech:** `Python` `NLTK` `Pandas` `Surprise`
-
-- Hybrid recommendation engine
-- Content-based filtering
-- Review sentiment insights
-
-🔗 GitHub
-
----
-
-## Research & Publications
-
-### IEEE Publications
-- **Deep Learnings for Financial Sentiment Analysis**
-- **Deep Learning Architectures for Multimodal Sentiment Analysis**
-- **Leveraging Deep Learning for Sentiment Analysis in Nepali Language Literature**
-
-### Book / Conclave Papers
-- *Cultural Practices and Environmental Adaptations in Nepal's Hill Communities*
-- *Navigating Growth, Urbanization, and Debt: A Multidimensional Analysis of Nepal's Economic Transformation (2010–2022)*
-- *Everyday Life in Nepal's Hill Communities: An Exploration of Cultural Practices and Environmental Adaptations*
-
----
-
-## Conferences
-
-- IEEE Research Presentations at KIIT
-- Paper Presentation at IIT Bhubaneswar
-- ESIC 2025 IEEE Conference Delegate
-- AI/ML Research Keynote Sessions
-- Sustainable Energy Economics Conference
-
-**Stats**
-- 3+ Conferences
-- 6+ Research Papers
-- Top 20 / 180 Papers Selected
-- IEEE Published & Indexed
-
----
-
-## Certifications
-
-- AI Tools Workshop — be10X
-- AWS Academy Introduction to Cloud — AWS
-- Career Essentials in Data Analysis — Microsoft & LinkedIn
-- Full Stack Development in Java
-- Python & Machine Learning
-- Data Science Bootcamp
-- MongoDB Developer's Toolkit
-- SQL — Complete Introduction to SQL
-- Business Analyst Certification
-
----
-
-## Awards & Recognition
-
-### 🏆 Top 20 Research Paper — IIT Bhubaneswar
-Selected among the **Top 20 papers out of 180 submissions** at the International Conference on Sustainable Energy Economics in the Asia-Pacific Region.
-
-### 🎤 Top 24 Finalist — Comedy Champion Season 2
-Advanced to **Top 24 nationally** in Nepal’s biggest stand-up comedy competition out of **7,000+ participants**.
-
-### 🎓 Study in India Scholarship
-Awarded full scholarship by the Government of India for B.Tech CSE at KIIT University.
-
----
-
-## Beyond Tech
-
-When I’m not building software or publishing research, I’m probably doing one of these:
-
-- 🎤 Stand-up Comedy
-- 🏔️ Trekking
-- ♟️ Chess
-- 🚴 Cycling
-- 🎸 Guitar
-
-Comedy taught me timing. Research taught me rigor. Development taught me execution.
-
----
-
-## Coding Profiles
-
-- LeetCode: `jharishav99`
-- HackerRank: `jharishav99`
-- CodeChef: `jharishav99`
-- Codolio: `jharishav99`
-
----
-
-## Connect With Me
-
-I’m open to opportunities, collaborations, and interesting conversations.
-
-- 💼 LinkedIn
-- 💻 GitHub
-- 📧 Email
-- 💬 WhatsApp
-- 📸 Instagram
-- 👥 Facebook
-- 📚 Google Scholar
-- 🔬 Semantic Scholar
-
----
-
-## Philosophy
-
-> Like Buddha under the Bodhi tree,  
-> we seek clarity and enlightenment  
-> through mindful creation.
-
-**Built with ❤️ · From the Himalayas to the Cloud · नमस्ते 🏔️**
+```text
+💻 Build full stack apps that scale
+🧠 Research AI/ML systems that think
+📊 Turn data into decisions
+🎤 Make technical ideas easy (and funny)
