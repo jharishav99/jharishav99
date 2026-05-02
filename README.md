@@ -9,7 +9,7 @@ From the foot of the Himalayas to the cloud. 🏔️☁️
 🧠 AI Researcher  
 🎤 Stand-up Comedian  
 
-[Portfolio]([#](https://rishavjha.com.np/)) • [Resume](https://rishavjha.com.np/Rishav_Jha_Resume.pdf) • [LinkedIn](http://linkedin.com/in/jharishav99/) • [GitHub](https://github.com/jharishav99)
+[Portfolio](https://rishavjha.com.np/) • [Resume](https://rishavjha.com.np/Rishav_Jha_Resume.pdf) • [LinkedIn](http://linkedin.com/in/jharishav99/) • [GitHub](https://github.com/jharishav99)
 
 ---
 
