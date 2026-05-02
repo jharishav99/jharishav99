@@ -12,17 +12,6 @@ From the foot of the Himalayas to the cloud. 🏔️☁️
 [Portfolio](https://rishavjha.com.np/) • [Resume](https://rishavjha.com.np/Rishav_Jha_Resume.pdf) • [LinkedIn](http://linkedin.com/in/jharishav99/) • [GitHub](https://github.com/jharishav99)
 
 ---
-
-## About Me
-
-I’m **Rishav Jha**, a **.NET Full Stack Developer** currently working at **Wipro** in Bangalore, building production-grade enterprise applications using **.NET**, **Angular**, and modern full stack technologies.
-
-Originally from **Nepal**, I bring a unique mix of:
-
-- **Production-ready full stack development**
-- **IEEE-published AI/ML research**
-- **Strong communication from 3+ years of stand-up comedy**
-
 I believe the climb matters more than the summit — whether it’s building software, publishing research, or making people laugh.
 
 > Fast learner. Strong communicator. Builder of things that actually work.
@@ -42,65 +31,19 @@ I believe the climb matters more than the summit — whether it’s building sof
 - 📍 Based in Bangalore, India
 
 ---
-
-## Tech Stack
-
-### Backend / .NET
-- ASP.NET Core
-- .NET 8
-- C#
-- Entity Framework Core
-- REST APIs
-- JWT Authentication
-- SQL Server
-- PostgreSQL
-
-### Frontend
-- Angular
-- TypeScript
-- RxJS
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-- React
-
-### Programming Languages
-- C#
-- Python
-- C++
-- JavaScript
-- TypeScript
-- SQL
-
-### AI / ML / Deep Learning
-- TensorFlow
-- PyTorch
-- CNN
-- RNN
-- Transformers
-- BERT
-- Transfer Learning
-- NLP
-- Multimodal Sentiment Analysis
-
-### Data Science
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- NLTK
-- Hugging Face
-- Word2Vec
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Visual Studio
-- Postman
-- Figma
-- IntelliJ IDEA
+⚡ Tech Arsenal
+Backend / .NET
+ASP.NET Core · .NET 8 · C# · EF Core · REST APIs · JWT · SQL Server · PostgreSQL
+Frontend
+Angular · React · TypeScript · RxJS · JavaScript · HTML5 · CSS3 · Tailwind CSS
+Languages
+C# · Python · C++ · JavaScript · TypeScript · SQL
+AI / ML
+TensorFlow · PyTorch · CNN · RNN · Transformers · BERT · NLP · Transfer Learning · Multimodal AI
+Data Science
+Pandas · NumPy · Scikit-learn · Matplotlib · NLTK · Hugging Face · Word2Vec
+Tools & Workflow
+Git · GitHub · VS Code · Visual Studio · Postman · Figma · IntelliJ IDEA
 
 ---
 
@@ -119,50 +62,4 @@ I believe the climb matters more than the summit — whether it’s building sof
 
 ---
 
-## Conferences
 
-- IEEE Research Presentations at KIIT
-- Paper Presentation at IIT Bhubaneswar
-- ESIC 2025 IEEE Conference Delegate
-- AI/ML Research Keynote Sessions
-- Sustainable Energy Economics Conference
-
-**Stats**
-- 3+ Conferences
-- 6+ Research Papers
-- Top 20 / 180 Papers Selected
-- IEEE Published & Indexed
-
-
-
-## Coding Profiles
-
-- LeetCode: `jharishav99`
-- HackerRank: `jharishav99`
-- CodeChef: `jharishav99`
-- Codolio: `jharishav99`
-
----
-
-## Connect With Me
-
-I’m open to opportunities, collaborations, and interesting conversations.
-
-- 💼 LinkedIn
-- 💻 GitHub
-- 📧 Email
-- 💬 WhatsApp
-- 📸 Instagram
-- 👥 Facebook
-- 📚 Google Scholar
-- 🔬 Semantic Scholar
-
----
-
-## Philosophy
-
-> Like Buddha under the Bodhi tree,  
-> we seek clarity and enlightenment  
-> through mindful creation.
-
-**Built with ❤️ · From the Himalayas to the Cloud · नमस्ते 🏔️**
