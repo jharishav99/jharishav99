@@ -32,17 +32,23 @@ I believe the climb matters more than the summit — whether it’s building sof
 
 ---
 ⚡ Tech Arsenal
-Backend / .NET
+
+💻 Backend / .NET
 ASP.NET Core · .NET 8 · C# · EF Core · REST APIs · JWT · SQL Server · PostgreSQL
-Frontend
+
+🎨 Frontend
 Angular · React · TypeScript · RxJS · JavaScript · HTML5 · CSS3 · Tailwind CSS
-Languages
+
+🧠 Languages
 C# · Python · C++ · JavaScript · TypeScript · SQL
-AI / ML
+
+🤖 AI / ML
 TensorFlow · PyTorch · CNN · RNN · Transformers · BERT · NLP · Transfer Learning · Multimodal AI
-Data Science
+
+📊 Data Science
 Pandas · NumPy · Scikit-learn · Matplotlib · NLTK · Hugging Face · Word2Vec
-Tools & Workflow
+
+🛠️ Tools & Workflow
 Git · GitHub · VS Code · Visual Studio · Postman · Figma · IntelliJ IDEA
 
 ---
