@@ -8,7 +8,7 @@
 🧠 AI Researcher  
 
 
-[Portfolio](https://rishavjha.com.np/) • [Resume](https://rishavjha.com.np/Rishav_Jha_Resume.pdf) • [LinkedIn](http://linkedin.com/in/jharishav99/) • [GitHub](https://github.com/jharishav99)
+[Portfolio](https://rishavjha.com.np/) • [Resume](https://drive.google.com/file/d/1eq30fL53s6UXPyD3GZNDm_7OkWjwaBxO/view?usp=sharing) • [LinkedIn](http://linkedin.com/in/jharishav99/) • [GitHub](https://github.com/jharishav99)
 
 ---
 I believe the climb matters more than the summit — whether it’s building software or publishing research.
