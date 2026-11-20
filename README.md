@@ -3,16 +3,16 @@
 **.NET Full Stack Developer · AI Researcher · Stand-up Comedian**  
 From the foot of the Himalayas to the cloud. 🏔️☁️
 
-📍 Bangalore, India  
+📍 GiftCity, India  
 🇳🇵 Originally from Nepal  
 💼 Project Engineer @ Wipro  
 🧠 AI Researcher  
-🎤 Stand-up Comedian  
+
 
 [Portfolio](https://rishavjha.com.np/) • [Resume](https://rishavjha.com.np/Rishav_Jha_Resume.pdf) • [LinkedIn](http://linkedin.com/in/jharishav99/) • [GitHub](https://github.com/jharishav99)
 
 ---
-I believe the climb matters more than the summit — whether it’s building software, publishing research, or making people laugh.
+I believe the climb matters more than the summit — whether it’s building software or publishing research.
 
 > Fast learner. Strong communicator. Builder of things that actually work.
 
@@ -24,7 +24,6 @@ I believe the climb matters more than the summit — whether it’s building sof
 - 💻 **.NET Full Stack Angular Developer**
 - 🧠 **1.5+ Years in AI & Deep Learning Research**
 - 📚 **6+ Publications**
-- 🎤 **3+ Years of Stand-up Comedy**
 - 🏆 **Top 20 Research Paper @ IIT Bhubaneswar**
 - 🎭 **Top 24 Finalist – Comedy Champion Season 2 (Nepal)**
 - 🎓 **Study in India Scholarship Awardee**
