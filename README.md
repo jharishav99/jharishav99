@@ -1,10 +1,9 @@
 # Rishav Jha
 
 **NET Full Stack Developer · AI Researcher**  
-From the foot of the Himalayas to the cloud. 🏔️☁️
+
 
 📍 GiftCity, India  
-🇳🇵 Originally from Nepal  
 💼 Project Engineer @ Wipro  
 🧠 AI Researcher  
 
